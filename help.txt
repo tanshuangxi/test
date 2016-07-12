@@ -1,2 +1,2 @@
 help txt 
-add new line for master branch
+add new line for master branch and dev branch
