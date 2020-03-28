@@ -9,3 +9,4 @@ test fetch command
 test pull command
 test pull command on local
 test pull command again
+dev branch add content
