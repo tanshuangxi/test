@@ -8,3 +8,4 @@ add new content on github.com agin
 test fetch command
 test pull command
 test pull command on local
+test pull command again
