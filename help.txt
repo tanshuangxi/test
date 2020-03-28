@@ -6,3 +6,4 @@ add content on mac again
 add new content on github.com
 add new content on github.com agin
 test fetch command
+test pull command
